@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+__pycache__/
+*.py[cod]
+
+.venv/
+.venv-socialuna/
+env/
+env1/
+
+.idea/
+.vscode/
+.vs/
+
+logs/*.log
+data/*.tmp
