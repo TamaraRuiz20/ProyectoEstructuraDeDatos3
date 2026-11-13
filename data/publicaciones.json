@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "usuario_id": 1,
+    "contenido": "¡Bienvenidos a Social UNA!",
+    "fecha": "2026-11-13T10:00:00"
+  },
+  {
+    "id": 2,
+    "usuario_id": 2,
+    "contenido": "¿Quién se apunta a estudiar Estructuras?",
+    "fecha": "2026-11-13T10:05:00"
+  },
+  {
+    "id": 3,
+    "usuario_id": 3,
+    "contenido": "Ya casi terminamos el proyecto.",
+    "fecha": "2026-11-13T10:10:00"
+  },
+  {
+    "id": 4,
+    "usuario_id": 4,
+    "contenido": "Hola, comunidad de Social UNA.",
+    "fecha": "2026-11-13T10:15:00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tamara",
+    "usuario": "tamara",
+    "clave_hash": "",
+    "sal": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Amanda",
+    "usuario": "amanda",
+    "clave_hash": "",
+    "sal": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Jeff",
+    "usuario": "jeff",
+    "clave_hash": "",
+    "sal": ""
+  },
+  {
+    "id": 4,
+    "nombre": "Allison",
+    "usuario": "allison",
+    "clave_hash": "",
+    "sal": ""
+  }
+]
