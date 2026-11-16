@@ -35,11 +35,11 @@ Aplicación de escritorio para Estructuras de Datos. Permite registrar estudiant
 -
 
 ╠══════════════════════════════════════════════════════════════════════╣
-- Allison Murillo (?)
--
--
--
--
+- Allison Murillo (ChatGPT)
+- Pedí ayuda para crear la interfaz de Social UNA en Python con CustomTkinter, con pantallas de inicio de sesión, registro y navegación.
+- Pedí ayuda para configurar Python 3.13 en PyCharm e instalar CustomTkinter en el entorno del proyecto.
+- Pedí ayuda para identificar los archivos de mi parte y subirlos a la rama `Allison` mediante un commit y un pull request.
+- Apliqué los pasos para subir la interfaz y la documentación en el PR #4. Después de integrar el chat de Jefferson en `main`, hice el merge de mi PR.
 ╚══════════════════════════════════════════════════════════════════════╝
 
 
