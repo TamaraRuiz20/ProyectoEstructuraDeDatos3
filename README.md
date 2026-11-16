@@ -28,11 +28,9 @@ Aplicación de escritorio para Estructuras de Datos. Permite registrar estudiant
 -
 
 ╠══════════════════════════════════════════════════════════════════════╣
-- Jefferson Espinoza (?)
--
--
--
--
+- Jefferson Espinoza (Claude)
+-Queremos implementar un chat por IP a nuestro proyecto de Python que
+pretende simular una red social, el chat debe ser solo entre 2 usuarios.
 
 ╠══════════════════════════════════════════════════════════════════════╣
 - Allison Murillo (ChatGPT)
