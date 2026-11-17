@@ -3,28 +3,28 @@
     "id": 1,
     "nombre": "Tamara",
     "usuario": "tamara",
-    "clave_hash": "",
-    "sal": ""
+    "clave_hash": "2877be54d001535368157a77217b9df5e9538e1efbeea2a5ad61961da22cd015",
+    "sal": "b191a55b6cf69dbc0cf00d8b99262553"
   },
   {
     "id": 2,
     "nombre": "Amanda",
     "usuario": "amanda",
-    "clave_hash": "",
-    "sal": ""
+    "clave_hash": "7d494f71c578d051b413c978fd69deb51d17cedb4644af5e68680ff2dfd6a87b",
+    "sal": "95512d3579560bf1b9bef4abbb652a88"
   },
   {
     "id": 3,
     "nombre": "Jeff",
     "usuario": "jeff",
-    "clave_hash": "",
-    "sal": ""
+    "clave_hash": "3d4ed87a64f37596510d559155fcbd45d95fec769cccd537a395deebf3f8beca",
+    "sal": "78b8c8f0d75ee00d93d2edcbd9e2c571"
   },
   {
     "id": 4,
     "nombre": "Allison",
     "usuario": "allison",
-    "clave_hash": "",
-    "sal": ""
+    "clave_hash": "d58478db040d89716f33bebdda68b428229a7d076c20648199a850f975f1ffa1",
+    "sal": "59bec0553e38911f56c5a16c8fe91052"
   }
 ]
