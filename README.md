@@ -21,11 +21,10 @@ Aplicación de escritorio para Estructuras de Datos. Permite registrar estudiant
   no cambies el código todavía, primero explícame qué mejorarías
 
 ╠══════════════════════════════════════════════════════════════════════╣
-- Amanda Picado (?)
--
--
--
--
+- Amanda Picado (claude)
+-Pedí ayuda para revisar la parte de Tamara y subir mi parte (structures, services y tests/test_social.py).
+-Le di a Claude el enunciado del proyecto y me generó un borrador.Compare ese codigo con mi versión de codigo echo.
+-Pedí que revisara el proyecto contra el enunciado y la rúbrica.
 
 ╠══════════════════════════════════════════════════════════════════════╣
 - Jefferson Espinoza (Claude)
@@ -39,12 +38,6 @@ pretende simular una red social, el chat debe ser solo entre 2 usuarios.
 - Pedí ayuda para identificar los archivos de mi parte y subirlos a la rama `Allison` mediante un commit y un pull request.
 - Apliqué los pasos para subir la interfaz y la documentación en el PR #4. Después de integrar el chat de Jefferson en `main`, hice el merge de mi PR.
 ╚══════════════════════════════════════════════════════════════════════╝
-
-
-
-
-
-
 
 
 ## Cuentas de demostración
